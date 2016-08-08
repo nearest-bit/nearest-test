@@ -883,7 +883,6 @@ src/main/webapp/node_modules/bootstrap/less/print.less
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.wst.common.component
 .settings/org.eclipse.wst.common.project.facet.core.xml
-build.gradle
 src/main/webapp/node_modules/bootstrap/less/mixins/text-overflow.less
 src/main/webapp/node_modules/bootstrap/less/mixins/vendor-prefixes.less
 src/main/webapp/node_modules/bootstrap/less/navbar.less
