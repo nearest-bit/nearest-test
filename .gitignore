@@ -2,3 +2,4 @@ src/main/webapp/node_modules/
 .gradle/
 .project
 .settings/
+.classpath
